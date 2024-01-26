@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cookbook.uitlanders.com/'
 languageCode = 'en-us'
 title = 'Englefield Preston Cookbook'
 theme = 'cookbook'
