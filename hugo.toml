@@ -2,3 +2,35 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Englefield Preston Cookbook'
 theme = 'cookbook'
+sectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "fas fa-home" #icon, change if you would prefer a different icon
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Categories" # change to w/e you want, tags or categories works best
+    pre = "fas fa-tags" #icon, change if you would prefer a different icon
+    url = "/tags/"
+    weight = 2
+
+
+# Print output just creates a special route for a print view
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "PRINT"]
+  
+# The settings for the print format
+[outputFormats]
+[outputFormats.printFormat]
+  name = "print"
+  mediaType = "text/html"
+  baseName = "print"
+  isPlainText = false
+  rel = "print"
+  isHTML = true
+  noUgly = true
+  permalinkable = true
+  path = "print"
