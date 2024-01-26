@@ -9,15 +9,14 @@ date: 2024-01-26T14:05:45+10:00
 tags: ["etp", "dessert"] #tags for your recipe
 tagline: "Icecream!"
 servings: 4
-prep_time: BLANK #in minutes #can be BLANK
+prep_time:  #in minutes #can be BLANK
 cook: false # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: BLANK #in minutes or hours #can be BLANK
-calories: BLANK #in kcal #can be BLANK
+cook_time:  #in minutes or hours #can be BLANK
+calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
-
 
 ## Ingredients
 
