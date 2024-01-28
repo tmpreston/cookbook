@@ -2,13 +2,13 @@
 draft: false
 title: "Homemade icecream"
 author: etp
-recipe_image: images/defaultImage.png #The image for your recipe
+recipe_image: icecream.png #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2024-01-26T14:05:45+10:00
 tags: ["etp", "dessert"] #tags for your recipe
 tagline: "Icecream!"
-servings: 4
+servings: 8
 prep_time:  #in minutes #can be BLANK
 cook: false # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
