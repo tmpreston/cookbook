@@ -2,7 +2,7 @@
 draft: false
 title: "Homemade icecream"
 author: etp
-recipe_image: icecream.png #The image for your recipe
+recipe_image: images/icecream.png #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2024-01-26T14:05:45+10:00
