@@ -5,7 +5,7 @@ author: kap
 #recipe_image: images/icecream.png #The image for your recipe
 image_width: 512
 image_height: 512
-date: 2025-02-08
+date: 2025-02-08T07:45:45+10:00
 tags: ["kap", "chicken", "slowcooker"] #tags for your recipe
 #tagline: "Icecream!"
 servings: 8
