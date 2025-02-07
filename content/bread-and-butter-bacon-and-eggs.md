@@ -6,7 +6,7 @@ title: "BACON & EGG BREAD & BUTTER PUDDING"
 image_width: 512
 image_height: 512
 date: 2025-02-08T07:45:45+10:00
-tags: ["side"] #tags for your recipe
+tags: ["breakfast"] #tags for your recipe
 #tagline: "Icecream!"
 #servings: 8
 prep_time:   #in minutes #can be BLANK
