@@ -31,7 +31,7 @@ cook_time: 5.5 #in minutes or hours #can be BLANK
 
 ## Method
 
-1. Addd chicken, onion, bacon, stock cube into 6L slow cooker
+1. Add chicken, onion, bacon, stock cube into 6L slow cooker
 1. Pour over soups
 1. Add cream
 1. Stir together
