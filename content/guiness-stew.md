@@ -1,9 +1,8 @@
 ---
 draft: false
 title: "Slow-cooker Guiness Stew"
-#author: kap
-#recipe_image: 
-images/guiness-stew.png #The image for your recipe
+author: tmp
+recipe_image: images/guiness-stew.png #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2025-02-08T07:45:45+10:00
