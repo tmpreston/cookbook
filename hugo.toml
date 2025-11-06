@@ -21,10 +21,10 @@ sectionPagesMenu = "main"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "PRINT"]
-  
+
 # The settings for the print format
 [outputFormats]
-[outputFormats.printFormat]
+[outputFormats.print]
   name = "print"
   mediaType = "text/html"
   baseName = "print"
