@@ -1,7 +1,8 @@
 ---
 draft: false
-title: "Katherine's Bobotie"
-author: Katherine
+title: "Madikwe Bobotie"
+author: kap
+recipe_image: images/babotie-madikwe.webp
 image_width: 512
 image_height: 512
 date: 2026-05-30T00:00:00+10:00
