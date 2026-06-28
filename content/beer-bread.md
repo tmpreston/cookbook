@@ -2,7 +2,7 @@
 draft: false
 title: "BEER BREAD!"
 author: tmp
-#recipe_image: images/icecream.png #The image for your recipe
+recipe_image: images/beer-bread.jpg #The image for your recipe
 image_width: 512
 image_height: 512
 date: 2025-02-08T07:45:45+10:00
