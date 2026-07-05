@@ -2,14 +2,14 @@
 draft: false
 title: Apricot Crumble
 author: tmp
-# recipe_image: images/defaultImage.png # The image for your recipe
-image_width: 512 image_height: 512 date: 2026-07-05T12:00:00+10:00
-tags: [dessert, baking, apricot] # tags for your recipe 
-tagline: “A simple apricot crumble slice with buttery pastry crumb.” 
-servings: 8 
+recipe_image: images/apple-crumble.jpeg # The image for your recipe
+image_width: 512image_height: 512date: 2026-07-05T12:00:00+10:00
+tags: [dessert, baking, apricot] # tags for your recipe
+tagline: “A simple apricot crumble slice with buttery pastry crumb.”
+servings: 8
 prep_time: 15 # in minutes (can be blank)
-cook: true # If we are cooking this, leave true; if we are cooling set to false 
-cook_increment: 30 minutes # set to minutes or hours cook_time: 30 # total cook time (can be blank)
+cook: true # If we are cooking this, leave true; if we are cooling set to false
+cook_increment: 30 minutes # set to minutes or hourscook_time: 30 # total cook time (can be blank)
 #calories: # in kcal (can be blank)
 ---
 For a buttery apricot crumble slice made with apricot jam and an optional handful of chopped dried apricots.
