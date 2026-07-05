@@ -1,4 +1,4 @@
-
+---
 draft: false
 title: “Apricot Crumble” 
 author: tmp
@@ -11,11 +11,10 @@ prep_time: 15 # in minutes (can be blank)
 cook: true # If we are cooking this, leave true; if we are cooling set to false 
 cook_increment: 30 minutes # set to minutes or hours cook_time: 30 # total cook time (can be blank)
 #calories: # in kcal (can be blank)
-For
+---
+For a buttery apricot crumble slice made with apricot jam and an optional handful of chopped dried apricots.
 
-A buttery apricot crumble slice made with apricot jam and an optional handful of chopped dried apricots.
-
-Ingredients
+# Ingredients
 	●	250 gm butter, very cold or frozen
 	●	3 cups flour
 	●	3/4 cup sugar
@@ -25,7 +24,7 @@ Ingredients
 	●	1 small jar apricot jam
 	●	Optional: chopped dried apricots
 
-Method
+# Method
 	1.	Preheat oven to 180°C.
 	2.	Grease a baking tin or Pyrex dish well.
 	3.	Grate the very cold or frozen butter into the flour.
