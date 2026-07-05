@@ -1,6 +1,6 @@
 ---
 draft: false
-title: “Apricot Crumble” 
+title: Apricot Crumble
 author: tmp
 # recipe_image: images/defaultImage.png # The image for your recipe
 image_width: 512 image_height: 512 date: 2026-07-05T12:00:00+10:00
