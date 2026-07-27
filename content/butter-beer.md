@@ -1,19 +1,26 @@
 ---
+draft: false
 title: "Aussie Butterbeer (Harry Potter-style)"
-description: "An easy Australian take on Harry Potter-style butterbeer using supermarket ingredients."
-tags:
-  - drinks
-  - harry-potter
-  - non-alcoholic
-  - party
-prepTime: "5 mins"
-cookTime: "0 mins"
+author: tmp
+recipe_image: images/butter-beer.webp # The image for your recipe
+image_width: 512
+image_height: 512
+date: 2026-07-25T10:09:34+10:00
+tags: ["drinks", "harry-potter", "non-alcoholic", "party"] # tags for your recipe
+tagline: "An easy Australian take on Harry Potter-style butterbeer using supermarket ingredients."
 servings: 1
+prep_time: 5 # in minutes
+cook: false # This recipe is chilled, not cooked
+cook_increment: minutes
+cook_time: # in minutes or hours (can be blank)
+calories: # in kcal (can be blank)
 ---
 
 # Aussie Butterbeer (Harry Potter-style)
 
 A simple Australian take on Harry Potter-style butterbeer using ingredients available from Woolworths or Coles.
+
+> Photo above: We used yellow food colouring to try to get it closer to the original look.
 
 ## Ingredients
 
